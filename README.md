@@ -12,6 +12,20 @@ Este documento describe las actividades realizadas durante el curso de ingenier�
 - Diseñar fijaciones personalizadas en 3D como interfaz entre el cuerpo y un brazo robótico.
 - Programar movimientos robóticos para realizar terapias simuladas.
 - Producir e integrar prototipos mediante impresión 3D y validarlos en un fantoma.
+---
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica/blob/main/Im%C3%A1genes/WhatsApp%20Image%202024-12-23%20at%2010.04.02%20AM%20(1).jpeg?raw=true" alt="Descripción de Imagen 1" style="width: 350px;"><br>
+      <strong></strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica/blob/main/Im%C3%A1genes/WhatsApp%20Image%202024-12-23%20at%2010.04.02%20AM.jpeg?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong></strong>
+    </td>
+   </tr>
+</table>
 
 ---
 
