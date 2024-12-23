@@ -61,6 +61,25 @@ Se identificaron oportunidades para optimizar los diseños y los procesos de pro
 
 ---
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202024-12-23%20094300.png?raw=true" alt="Descripción de Imagen 1" style="width: 350px;"><br>
+      <strong></strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202024-12-23%20094351.png?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong></strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/v3c70rCR/Desarrollo-de-Interfaces-para-Rehabilitacion-Robotica/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202024-12-23%20094603.png?raw=true" alt="Descripción de Imagen 2" style="width: 350px;"><br>
+      <strong></strong>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 5. Conclusiones
 
 Este curso proporcionó a los estudiantes conocimientos y experiencia en la integración de tecnologías avanzadas para aplicaciones biomédicas. La combinación de escaneo 3D, diseño digital, impresión 3D y robótica abrió nuevas posibilidades para el desarrollo de dispositivos terapéuticos personalizados.
